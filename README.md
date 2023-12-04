@@ -1,3 +1,6 @@
+Nice to meet you!
+My Discord is NoraSparks#9240
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
